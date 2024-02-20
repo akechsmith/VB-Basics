@@ -3,8 +3,8 @@ Imports System.Windows.Forms
 Public Class Form1
     Private welcomeTooltTip As New ToolTip()
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        welcomeTooltTip.SetToolTip(Me, "click to maximize and change the background color")
-        welcomeTooltTip.SetToolTip(LoadObjectButton, "Click to load object demonstration form")
+        welcomeTooltTip.SetToolTip(Me, "click once to maximize the form and change the background color to red")
+        welcomeTooltTip.SetToolTip(LoadObjectButton, "Click to open object demonstration form")
         welcomeTooltTip.SetToolTip(ExitButton, "Click to exit the form")
     End Sub
 

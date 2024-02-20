@@ -26,8 +26,7 @@
     End Sub
 
     Private Sub LoadImageButton_Click(sender As Object, e As EventArgs) Handles LoadImageButton.Click
-        ' Button, used to load a picture from the hard disk of the computer
-        ' and display it in the picture box control of the form when it is clicked.
+        ' Button, for loading a picture from the computer and display it in the picture box control.
         Dim openFileDialog As New OpenFileDialog()
         openFileDialog.Filter = "Image Files|*.jpg;*.jpeg;*.png;*.gif;*.bmp|All Files|*.*"
 
