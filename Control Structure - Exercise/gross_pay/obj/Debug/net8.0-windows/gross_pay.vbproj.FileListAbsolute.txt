@@ -1,0 +1,16 @@
+C:\Users\abel atem kuany\Desktop\AKECH\gross_pay\bin\Debug\net8.0-windows\gross_pay.exe
+C:\Users\abel atem kuany\Desktop\AKECH\gross_pay\bin\Debug\net8.0-windows\gross_pay.deps.json
+C:\Users\abel atem kuany\Desktop\AKECH\gross_pay\bin\Debug\net8.0-windows\gross_pay.runtimeconfig.json
+C:\Users\abel atem kuany\Desktop\AKECH\gross_pay\bin\Debug\net8.0-windows\gross_pay.dll
+C:\Users\abel atem kuany\Desktop\AKECH\gross_pay\bin\Debug\net8.0-windows\gross_pay.pdb
+C:\Users\abel atem kuany\Desktop\AKECH\gross_pay\obj\Debug\net8.0-windows\gross_pay.Form1.resources
+C:\Users\abel atem kuany\Desktop\AKECH\gross_pay\obj\Debug\net8.0-windows\gross_pay.vbproj.GenerateResource.cache
+C:\Users\abel atem kuany\Desktop\AKECH\gross_pay\obj\Debug\net8.0-windows\gross_pay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abel atem kuany\Desktop\AKECH\gross_pay\obj\Debug\net8.0-windows\gross_pay.AssemblyInfoInputs.cache
+C:\Users\abel atem kuany\Desktop\AKECH\gross_pay\obj\Debug\net8.0-windows\gross_pay.AssemblyInfo.vb
+C:\Users\abel atem kuany\Desktop\AKECH\gross_pay\obj\Debug\net8.0-windows\gross_pay.vbproj.CoreCompileInputs.cache
+C:\Users\abel atem kuany\Desktop\AKECH\gross_pay\obj\Debug\net8.0-windows\gross_pay.dll
+C:\Users\abel atem kuany\Desktop\AKECH\gross_pay\obj\Debug\net8.0-windows\refint\gross_pay.dll
+C:\Users\abel atem kuany\Desktop\AKECH\gross_pay\obj\Debug\net8.0-windows\gross_pay.pdb
+C:\Users\abel atem kuany\Desktop\AKECH\gross_pay\obj\Debug\net8.0-windows\gross_pay.genruntimeconfig.cache
+C:\Users\abel atem kuany\Desktop\AKECH\gross_pay\obj\Debug\net8.0-windows\ref\gross_pay.dll

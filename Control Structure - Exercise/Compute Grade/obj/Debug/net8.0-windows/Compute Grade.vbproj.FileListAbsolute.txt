@@ -1,0 +1,16 @@
+C:\Users\abel atem kuany\Desktop\AKECH\Compute Grade\bin\Debug\net8.0-windows\Compute Grade.exe
+C:\Users\abel atem kuany\Desktop\AKECH\Compute Grade\bin\Debug\net8.0-windows\Compute Grade.deps.json
+C:\Users\abel atem kuany\Desktop\AKECH\Compute Grade\bin\Debug\net8.0-windows\Compute Grade.runtimeconfig.json
+C:\Users\abel atem kuany\Desktop\AKECH\Compute Grade\bin\Debug\net8.0-windows\Compute Grade.dll
+C:\Users\abel atem kuany\Desktop\AKECH\Compute Grade\bin\Debug\net8.0-windows\Compute Grade.pdb
+C:\Users\abel atem kuany\Desktop\AKECH\Compute Grade\obj\Debug\net8.0-windows\Compute_Grade.Form1.resources
+C:\Users\abel atem kuany\Desktop\AKECH\Compute Grade\obj\Debug\net8.0-windows\Compute Grade.vbproj.GenerateResource.cache
+C:\Users\abel atem kuany\Desktop\AKECH\Compute Grade\obj\Debug\net8.0-windows\Compute Grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abel atem kuany\Desktop\AKECH\Compute Grade\obj\Debug\net8.0-windows\Compute Grade.AssemblyInfoInputs.cache
+C:\Users\abel atem kuany\Desktop\AKECH\Compute Grade\obj\Debug\net8.0-windows\Compute Grade.AssemblyInfo.vb
+C:\Users\abel atem kuany\Desktop\AKECH\Compute Grade\obj\Debug\net8.0-windows\Compute Grade.vbproj.CoreCompileInputs.cache
+C:\Users\abel atem kuany\Desktop\AKECH\Compute Grade\obj\Debug\net8.0-windows\Compute Grade.dll
+C:\Users\abel atem kuany\Desktop\AKECH\Compute Grade\obj\Debug\net8.0-windows\refint\Compute Grade.dll
+C:\Users\abel atem kuany\Desktop\AKECH\Compute Grade\obj\Debug\net8.0-windows\Compute Grade.pdb
+C:\Users\abel atem kuany\Desktop\AKECH\Compute Grade\obj\Debug\net8.0-windows\Compute Grade.genruntimeconfig.cache
+C:\Users\abel atem kuany\Desktop\AKECH\Compute Grade\obj\Debug\net8.0-windows\ref\Compute Grade.dll
