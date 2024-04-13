@@ -1,0 +1,32 @@
+C:\Users\abel atem kuany\Desktop\AKECH\SalePersons Commission Calculator\bin\Debug\net8.0-windows\SalePersons Commission Calculator.exe
+C:\Users\abel atem kuany\Desktop\AKECH\SalePersons Commission Calculator\bin\Debug\net8.0-windows\SalePersons Commission Calculator.deps.json
+C:\Users\abel atem kuany\Desktop\AKECH\SalePersons Commission Calculator\bin\Debug\net8.0-windows\SalePersons Commission Calculator.runtimeconfig.json
+C:\Users\abel atem kuany\Desktop\AKECH\SalePersons Commission Calculator\bin\Debug\net8.0-windows\SalePersons Commission Calculator.dll
+C:\Users\abel atem kuany\Desktop\AKECH\SalePersons Commission Calculator\bin\Debug\net8.0-windows\SalePersons Commission Calculator.pdb
+C:\Users\abel atem kuany\Desktop\AKECH\SalePersons Commission Calculator\obj\Debug\net8.0-windows\SalePersons Commission Calculator.vbproj.GenerateResource.cache
+C:\Users\abel atem kuany\Desktop\AKECH\SalePersons Commission Calculator\obj\Debug\net8.0-windows\SalePersons Commission Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abel atem kuany\Desktop\AKECH\SalePersons Commission Calculator\obj\Debug\net8.0-windows\SalePersons Commission Calculator.AssemblyInfoInputs.cache
+C:\Users\abel atem kuany\Desktop\AKECH\SalePersons Commission Calculator\obj\Debug\net8.0-windows\SalePersons Commission Calculator.AssemblyInfo.vb
+C:\Users\abel atem kuany\Desktop\AKECH\SalePersons Commission Calculator\obj\Debug\net8.0-windows\SalePersons Commission Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\abel atem kuany\Desktop\AKECH\SalePersons Commission Calculator\obj\Debug\net8.0-windows\SalePersons Commission Calculator.dll
+C:\Users\abel atem kuany\Desktop\AKECH\SalePersons Commission Calculator\obj\Debug\net8.0-windows\refint\SalePersons Commission Calculator.dll
+C:\Users\abel atem kuany\Desktop\AKECH\SalePersons Commission Calculator\obj\Debug\net8.0-windows\SalePersons Commission Calculator.pdb
+C:\Users\abel atem kuany\Desktop\AKECH\SalePersons Commission Calculator\obj\Debug\net8.0-windows\SalePersons Commission Calculator.genruntimeconfig.cache
+C:\Users\abel atem kuany\Desktop\AKECH\SalePersons Commission Calculator\obj\Debug\net8.0-windows\ref\SalePersons Commission Calculator.dll
+C:\Users\abel atem kuany\Desktop\AKECH\SalePersons Commission Calculator\obj\Debug\net8.0-windows\SalePersons_Commission_Calculator.ComputeCommision.resources
+C:\Users\abel atem kuany\Desktop\ASSIGNMENT\SalePersons Commission Calculator\bin\Debug\net8.0-windows\SalePersons Commission Calculator.exe
+C:\Users\abel atem kuany\Desktop\ASSIGNMENT\SalePersons Commission Calculator\bin\Debug\net8.0-windows\SalePersons Commission Calculator.deps.json
+C:\Users\abel atem kuany\Desktop\ASSIGNMENT\SalePersons Commission Calculator\bin\Debug\net8.0-windows\SalePersons Commission Calculator.runtimeconfig.json
+C:\Users\abel atem kuany\Desktop\ASSIGNMENT\SalePersons Commission Calculator\bin\Debug\net8.0-windows\SalePersons Commission Calculator.dll
+C:\Users\abel atem kuany\Desktop\ASSIGNMENT\SalePersons Commission Calculator\bin\Debug\net8.0-windows\SalePersons Commission Calculator.pdb
+C:\Users\abel atem kuany\Desktop\ASSIGNMENT\SalePersons Commission Calculator\obj\Debug\net8.0-windows\SalePersons_Commission_Calculator.ComputeCommision.resources
+C:\Users\abel atem kuany\Desktop\ASSIGNMENT\SalePersons Commission Calculator\obj\Debug\net8.0-windows\SalePersons Commission Calculator.vbproj.GenerateResource.cache
+C:\Users\abel atem kuany\Desktop\ASSIGNMENT\SalePersons Commission Calculator\obj\Debug\net8.0-windows\SalePersons Commission Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abel atem kuany\Desktop\ASSIGNMENT\SalePersons Commission Calculator\obj\Debug\net8.0-windows\SalePersons Commission Calculator.AssemblyInfoInputs.cache
+C:\Users\abel atem kuany\Desktop\ASSIGNMENT\SalePersons Commission Calculator\obj\Debug\net8.0-windows\SalePersons Commission Calculator.AssemblyInfo.vb
+C:\Users\abel atem kuany\Desktop\ASSIGNMENT\SalePersons Commission Calculator\obj\Debug\net8.0-windows\SalePersons Commission Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\abel atem kuany\Desktop\ASSIGNMENT\SalePersons Commission Calculator\obj\Debug\net8.0-windows\SalePersons Commission Calculator.dll
+C:\Users\abel atem kuany\Desktop\ASSIGNMENT\SalePersons Commission Calculator\obj\Debug\net8.0-windows\refint\SalePersons Commission Calculator.dll
+C:\Users\abel atem kuany\Desktop\ASSIGNMENT\SalePersons Commission Calculator\obj\Debug\net8.0-windows\SalePersons Commission Calculator.pdb
+C:\Users\abel atem kuany\Desktop\ASSIGNMENT\SalePersons Commission Calculator\obj\Debug\net8.0-windows\SalePersons Commission Calculator.genruntimeconfig.cache
+C:\Users\abel atem kuany\Desktop\ASSIGNMENT\SalePersons Commission Calculator\obj\Debug\net8.0-windows\ref\SalePersons Commission Calculator.dll
